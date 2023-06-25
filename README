@@ -10,4 +10,4 @@ See the file INSTALL for compilation and installation instructions.
 Mail suggestions and bug reports for GNU time to
 bug-time@gnu.org.  Please include the version of
 `time', which you can get by running `time --version', and the
-operating system and C compiler you used!!
+operating system and C compiler you used.
